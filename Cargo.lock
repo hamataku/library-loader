@@ -998,6 +998,7 @@ dependencies = [
  "data-encoding",
  "dirs",
  "notify",
+ "regex",
  "reqwest",
  "serde",
  "shellexpand",
